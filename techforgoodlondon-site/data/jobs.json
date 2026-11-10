@@ -1,0 +1,66 @@
+{
+  "_note": "Sample data only. Every company and job below is made up. Replace with real listings.",
+  "companies": [
+    {
+      "id": "greengrid",
+      "name": "GreenGrid Energy",
+      "mission": "Helping households cut energy bills and carbon by shifting usage to when the grid is greenest.",
+      "sector": "Climate",
+      "stage": "Series A",
+      "funding_news": "Raised £12m Series A (sample data) to expand smart-tariff partnerships.",
+      "office_area": "King's Cross",
+      "website": "https://example.com"
+    },
+    {
+      "id": "carelink",
+      "name": "CareLink",
+      "mission": "Connecting unpaid carers with local support services and each other.",
+      "sector": "Health & social care",
+      "stage": "Seed",
+      "funding_news": "Closed a £3m seed round (sample data) led by an impact fund.",
+      "office_area": "Old Street / Shoreditch",
+      "website": "https://example.com"
+    },
+    {
+      "id": "learnloop",
+      "name": "LearnLoop",
+      "mission": "Free, adaptive maths tutoring for every state-school pupil in the UK.",
+      "sector": "Education",
+      "stage": "Series B",
+      "funding_news": "£28m Series B (sample data) to reach 1 million pupils by 2028.",
+      "office_area": "Oxford Circus / Soho",
+      "website": "https://example.com"
+    },
+    {
+      "id": "fairfare",
+      "name": "FairFare",
+      "mission": "Making financial products fairer for people with thin credit files.",
+      "sector": "Financial inclusion",
+      "stage": "Series A",
+      "funding_news": "Extended its Series A (sample data) after reaching profitability in two regions.",
+      "office_area": "Farringdon",
+      "website": "https://example.com"
+    },
+    {
+      "id": "openhomes",
+      "name": "OpenHomes",
+      "mission": "Software that helps councils move families out of temporary accommodation faster.",
+      "sector": "Housing",
+      "stage": "Bootstrapped",
+      "funding_news": "Profitable and bootstrapped (sample data); won a GovTech innovation grant.",
+      "office_area": "Fully remote",
+      "website": "https://example.com"
+    }
+  ],
+  "jobs": [
+    { "id": "j1", "title": "Product Manager, Smart Tariffs", "company_id": "greengrid", "seniority": "Mid-level", "type": "Product", "apply_url": "https://example.com", "posted": "2026-11-05" },
+    { "id": "j2", "title": "Senior Backend Engineer", "company_id": "greengrid", "seniority": "Senior", "type": "Engineering", "apply_url": "https://example.com", "posted": "2026-11-02" },
+    { "id": "j3", "title": "Associate Product Manager", "company_id": "carelink", "seniority": "Junior", "type": "Product", "apply_url": "https://example.com", "posted": "2026-11-07" },
+    { "id": "j4", "title": "Head of Product", "company_id": "learnloop", "seniority": "Director/Head of", "type": "Product", "apply_url": "https://example.com", "posted": "2026-10-30" },
+    { "id": "j5", "title": "Frontend Engineer", "company_id": "learnloop", "seniority": "Mid-level", "type": "Engineering", "apply_url": "https://example.com", "posted": "2026-11-04" },
+    { "id": "j6", "title": "Senior Product Manager, Credit", "company_id": "fairfare", "seniority": "Senior", "type": "Product", "apply_url": "https://example.com", "posted": "2026-11-01" },
+    { "id": "j7", "title": "Junior Software Engineer", "company_id": "fairfare", "seniority": "Junior", "type": "Engineering", "apply_url": "https://example.com", "posted": "2026-11-08" },
+    { "id": "j8", "title": "Director of Engineering", "company_id": "openhomes", "seniority": "Director/Head of", "type": "Engineering", "apply_url": "https://example.com", "posted": "2026-10-28" },
+    { "id": "j9", "title": "Product Manager, Council Tools", "company_id": "openhomes", "seniority": "Mid-level", "type": "Product", "apply_url": "https://example.com", "posted": "2026-11-06" }
+  ]
+}
