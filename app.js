@@ -66,6 +66,7 @@ function jobHtml(j) {
   return `
     <li class="job">
       <div>
+        ${c.sector ? `<p class="job-sector">${esc(c.sector)}</p>` : ""}
         <h2 class="job-title">${esc(j.title)}</h2>
         <p class="job-company">${esc(c.name)}</p>
         <ul class="tags">${tags.map((t) => `<li class="tag">${esc(t)}</li>`).join("")}</ul>
